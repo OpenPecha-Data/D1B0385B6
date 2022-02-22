@@ -77,20 +77,20 @@ annotations:
     reference: ''
     span:
       start: 12602
-      end: 13259
+      end: 13260
     note_ref: 20c9a373d7a54e79971b3d39a95dfd21
   342d3d94a6314848befaa2cd35bbfe4f:
     imgnum: 997
     reference: ''
     span:
-      start: 13261
-      end: 15094
+      start: 13262
+      end: 15066
   20c9a373d7a54e79971b3d39a95dfd21:
     imgnum: 998
     reference: ''
     span:
-      start: 15096
-      end: 15347
+      start: 15068
+      end: 15319
 local_ids:
   9f5b4062a3674b09858d72a91819e24a: 200000
   84e20dd847cb403c83aeddb312bc3c10: 200001
